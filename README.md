@@ -5,8 +5,9 @@ Projeto Integrador do Senac onde realizo o projeto/sistema para Pet shop que cha
 (em desenvolvimento)
 
 # Tecnologias previstas
-- Sistema Web
 - Desenvolvimento Java
+- Apache NetBeans
+- MySQL Workbech 
 
 # Time de desenvolvedores
 Marli Aparecida de Souza - Gerente de Projeto
@@ -16,5 +17,6 @@ Marli Aparecida de Souza - Desenvolvedor Backend e Frontend
 Responsabilidades: Criação das Apis, desenvolvimento dos códigos, testes, criação das interfaces graficas.
 
 # 
-Este projeto é uma aplicação web desenvolvida em Java com o objetivo de ser um sistema de vendas dos serviços de uma loja PETS, especificando os como serviços e gerenciando as vendas.
-A aplicação permite que os usuários cadastre os clientes para os serviços, com informações básicas, com possibilidade de lembrete de aniversário para que o cliente se sinta especial, e cada cliente terá seus pets no cadastro, assim como gerenciamento das vendas, promoções, controle de serviços e 
+Este projeto é uma aplicação web desenvolvida em Java com o objetivo de ser um sistema de vendas dos serviços de uma loja PETS, especificando os serviços e gerenciando suas vendas.
+
+A aplicação permite o cadastro de todos os funcionários e dos clientes/Pets com informações básicas, com possibilidade de lembrete de aniversário para que o cliente se sinta especial, cadastro de todos os tutores, assim como gerenciamento das vendas dos serviços, emissão de Nfs, promoções, controle de serviços e controle das comissões dos funcionários se necessárias.
